@@ -22,8 +22,6 @@ To run the DK Consultants website locally or make changes, follow these steps:
 ## Contributing
 We welcome contributions from the community to enhance the DK Consultants website. If you have any improvements, bug fixes, or new features to propose, feel free to submit a pull request. Please ensure that your changes align with the project's coding conventions and maintain a clear commit history.
 
-## Contact
-If you have any questions or inquiries, you can reach out to us at [email@example.com](mailto:email@example.com).
 
 We appreciate your interest in DK Consultants and look forward to helping you achieve your business goals!
 
